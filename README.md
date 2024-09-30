@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dharun Shoban
+<h1 align= "center"> 👋 Hi, I'm Dharun Shoban </h1>
 
 I am a Computer Science fresh graduate with a specialization in Data Science. I am passionate about applying my technical skills to contribute to innovative projects in fast-paced, dynamic environments. 
 I thrive both independently and as part of cross-functional teams, bringing a goal-oriented approach to every challenge. With a keen focus on problem-solving, 
